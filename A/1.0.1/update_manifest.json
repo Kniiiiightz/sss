@@ -1,0 +1,7 @@
+   {
+     "version": "1.0.1",
+     "build_date": "2025-12-05",
+     "description": "Исправлено автообновление, добавлены бэкапы",
+     "patch_url": "https://raw.githubusercontent.com/Kniiiiightz/sss/Patch/A/1.0.1/patch.zip",
+     "sha256": "22"
+   }
